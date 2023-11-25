@@ -17,5 +17,5 @@ p {
 }
 
 .container {
-    display: contents;
+    display: block;
 }
